@@ -12,6 +12,3 @@ My primary GitHub profile is 👉 [@sakib]([https://github.com/sakib-rupok](http
 - ⚡ Fun fact: I enjoy turning complex logic into clean, readable code.
 
 ---
-
-> _sakib-celloscope/sakib-celloscope_ is a ✨ special ✨ repository because its `README.md` appears on this GitHub profile.  
-> You can click the **Preview** link to take a look at the markdown in action.
