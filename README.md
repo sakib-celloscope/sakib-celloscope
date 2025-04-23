@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @sakib
 
 Welcome to my second GitHub profile!  
-My primary GitHub profile is 👉 [@sakib]([https://github.com/sakib-rupok](https://github.com/sakib963))
+My primary GitHub profile is 👉 [@sakib](https://github.com/sakib963)
 
 ---
 
